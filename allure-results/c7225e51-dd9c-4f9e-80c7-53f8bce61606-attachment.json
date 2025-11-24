@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "button[role=\"tab\"][aria-selected=\"false\"]"
+}
